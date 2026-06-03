@@ -1,0 +1,21 @@
+{
+  "license": {
+    "success": true,
+    "message": "Logged in!",
+    "hash": "",
+    "info": {
+      "username": "CERBERUS-1MONTH",
+      "subscriptions": [
+        { "subscription": "default", "key": "CERBERUS-1MONTH", "expiry": "2866406400", "timeleft": 1095746820 }
+      ],
+      "ip": "1.1.1.1",
+      "hwid": "S-1-5-21-67462821-3519527610-4166475979-1001",
+      "createdate": "1770681600",
+      "lastlogin": "1770394508"
+    }
+  },
+  "var": {
+    "success": true,
+    "message": "fj8hqk-027bafe8de3c8fce586f169f20c0a17995b4d543"
+  }
+}
